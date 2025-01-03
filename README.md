@@ -5,6 +5,8 @@ ID:
 DURATION:DEC12TH,2024 TO JAN 12TH 2025
 
 Overview of the Online Learning Platform Project-
+![Screenshot 2025-01-03 231100](https://github.com/user-attachments/assets/a52bb4b1-addd-45d1-ba24-909884f3885d)
+
 
 The Online Learning Platform is a simple web application designed to simulate the core features of an e-learning system. This project includes the following key features:
 
